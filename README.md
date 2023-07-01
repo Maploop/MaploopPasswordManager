@@ -23,8 +23,10 @@ By clicking the settings icon in the top right corner, you can fiddle with all o
 And here are a couple of screenshots of how it looks with a background and without a background!
 
 **With Background**
+![image](https://cdn.discordapp.com/attachments/608604096102006811/1124781703437754428/image.png)
 
 **Without Background**
+![image](https://github.com/Maploop/MaploopPasswordManager/assets/76199586/e1d33ee0-8254-4229-ac3d-45de86f221f4)
 
 ### Security
 This application is open-source, as the .zip file does not have any obfuscated files. It is coded in [Electron JS](https://www.electronjs.org/) and none of the files within the ZIP file are encrypted.
